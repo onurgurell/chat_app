@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595242719557",
+    "project_id": "chat-app-5ee02",
+    "storage_bucket": "chat-app-5ee02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595242719557:android:7ae5c34583a6225827062c",
+        "android_client_info": {
+          "package_name": "com.wcrop.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595242719557-b38hunlg9fohpsi6cqhi79ipvltmgi0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHK4TMZFshtW_BlEQam0KuEcdFIsXv3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595242719557-b38hunlg9fohpsi6cqhi79ipvltmgi0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
